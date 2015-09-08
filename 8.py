@@ -1,4 +1,5 @@
 #Project Euler solution 8, author: http://github.com/TerkaSlan #
+# NOT A CORRECT SOLUTION, took a slightly different approach considering all the directions #
 from time import clock
 forbidden = [] # so that i don't take seriously numbers already multiplied
 
